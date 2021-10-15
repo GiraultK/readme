@@ -42,3 +42,5 @@ _texte en italic_
 | oui   | Si tu dis oui, c'est bien. |
 | non | Si tu dis non c'est moins bien. |
 ###### Titre6
+
+~~Ce texte est barré~~
