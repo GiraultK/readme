@@ -18,13 +18,27 @@ _texte en italic_
 + crudité
   + tomate
   * salade
-+ pain
+- pain
 + jambon
 
 
 
 ### Titre3
+
 <https://wiki-assassins-creed.fandom.com/fr/wiki/Wiki_wiki_assassin%27s_creed>
+
+[wiki](https://wiki-assassins-creed.fandom.com/fr/wiki/Wiki_wiki_assassin%27s_creed)
+
+[montagne](https://cdn.pixabay.com/photo/2016/07/16/15/04/lake-1522136_960_720.jpg)
 #### Titre4
+
+- [ ] oui
+- [ ] non
+
 ##### Titre5
+
+| Option | Description |
+| --- | --- |
+| oui   | Si tu dis oui, c'est bien. |
+| non | Si tu dis non c'est moins bien. |
 ###### Titre6
